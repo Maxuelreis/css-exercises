@@ -1,0 +1,14 @@
+.bnt{
+    font-family:  Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.firstElement{
+    color: #FFF;
+    background-color: #000000;
+
+}
+
+.secondElement{
+    background-color: #FFFF00;
+}
